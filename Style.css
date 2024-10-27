@@ -6,9 +6,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 body {
+  width: 100%;
   background-image: url("https://img.freepik.com/vecteurs-libre/fond-grunge-noir-jaune_1409-1587.jpg?t=st=1729802269~exp=1729805869~hmac=21ce915e9f77963a78e3b199c63f7ba4a01a1320076b78a92e68cd6c71c0c55f&w=1380");
   background-size: 100%;
   background-attachment: fixed;
